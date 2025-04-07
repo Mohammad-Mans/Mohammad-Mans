@@ -17,4 +17,3 @@ I'm a Computer Systems Engineering student on a journey to become a Frontend Dev
 ## 📊 Statistical Data:
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammad-mans&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mohammad-mans&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
