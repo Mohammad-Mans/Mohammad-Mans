@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Mohammad&animation=fadeIn&reversal=false&textBg=false&desc=Crafting%20Code%20and%20Chasing%20Dreams%20💻✨&fontSize=50&fontAlignY=45&descAlign=56&fontAlign=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Mohammad&animation=fadeIn&reversal=false&textBg=false&desc=Software%20Engineer💻✨&fontSize=50&fontAlignY=45&descAlign=56&fontAlign=45)
 
 🎓 A Computer Systems Engineering student, with a growing passion for frontend development.
 
