@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Mohammad&animation=fadeIn&reversal=false&textBg=false&desc=Software%20Engineer💻⚙️🚀&fontSize=50&fontAlignY=45&descAlign=65&fontAlign=45)
 
-🎓 A Computer Systems Engineering student, with a growing passion for frontend development.
+🎓 A Computer Systems Engineer, with frontend experience and a growing passion for backend development.
 
 👨🏻‍💻 I specialize in building clean, responsive, and user-friendly interfaces using React.js and TypeScript, and I'm always exploring new tools and best practices in modern web development.
 
 📌 Currently, I’m focused on:
 
-- Enhancing my skills in React, TypeScript, and UI/UX design
+- Enhancing my skills in .NEt and C#
 
 - Collaborating on real-world projects to gain hands-on experience
 
