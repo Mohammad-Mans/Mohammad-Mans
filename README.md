@@ -6,7 +6,7 @@
 
 📌 Currently, I’m focused on:
 
-- Enhancing my skills in .NEt and C#
+- Enhancing my skills in backend development (.Net and C#)
 
 - Collaborating on real-world projects to gain hands-on experience
 
